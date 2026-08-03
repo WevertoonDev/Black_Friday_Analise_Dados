@@ -11,6 +11,7 @@ SELECT COUNT(*) AS Vendas_Totais from vendas;
 SELECT COUNT(*) AS Qtd_Categorias from categorias;
 SELECT COUNT(*) AS Qtd_Clientes from clientes;
 SELECT COUNT(*) AS Qtd_Fornecedores from fornecedores;
+SELECT COUNT(*) as Qtd_Marcas from marcas;
 
 SELECT * from vendas LIMIT 5;
 SELECT * from fornecedores LIMIT 5;
