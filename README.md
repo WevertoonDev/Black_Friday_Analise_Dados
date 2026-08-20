@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Projeto Black Friday - Análise de Dados
 
-Projeto desenvolvido durante os estudos de análise de dados e SQL.
+Projeto desenvolvido durante os estudos de análise de dados e SQL
 
 ## Objetivo
 Realizar análises de negócio utilizando dados de vendas da Black Friday.
